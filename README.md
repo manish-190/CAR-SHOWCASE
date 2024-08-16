@@ -1,6 +1,6 @@
 ## Car Hub
 
-![carhub](https://github.com/manish-190/CarShowcase/assets/127134124/a18f2c68-ad6c-465a-ab2d-3aa44a65678c)
+![carhub](https://github.com/jurecapuder/CarShowcase/assets/127134124/a18f2c68-ad6c-465a-ab2d-3aa44a65678c)
 
 Welcome to Car Hub, your one-stop destination for exploring a wide range of rental cars and discovering their rental prices. This repository contains the source code for the Car Hub landing page website.
 
@@ -31,4 +31,4 @@ This project serves as a starting point for a full-fledged car rental platform, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jurecapuder/carshowcase.git
+   git clone https://github.com/manish-190/carshowcase.git
